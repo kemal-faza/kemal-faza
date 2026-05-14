@@ -85,8 +85,6 @@ const kemal = {
   <a href="mailto:kemalfaza26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kemal-faza&icon=0&color=1" alt="Visit Counter" />
-</p>
+![](https://komarev.com/ghpvc/?username=kemal-faza)
 
 ---
