@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td width="40%" valign="top">
+    <td width="30%" valign="top">
 
 ### About Me
 
@@ -16,7 +16,7 @@ const kemal = {
 	name: 'Kemal',
 	role: 'Informatics Student',
 	university: 'Diponegoro University',
-	focus: 'Full-Stack Web & Mobile Development',
+	focus: 'Full-Stack Web & Mobile Dev',
 	interests: ['Web Dev', 'Mobile Apps', 'Backend APIs', 'Data Science', 'IoT'],
 	learning: ['TypeScript', 'Next.js', 'React Native', 'System Design'],
 };
@@ -24,12 +24,18 @@ const kemal = {
 
 ### GitHub Stats
 
-![](https://github-readme-stats-six.vercel.app/api?username=kemal-faza&theme=github_dark_dimmed&hide_border=true&include_all_commits=true)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/kemal-faza?style=flat-square&theme=github_dark_dimmed" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/kemal-faza?style=flat-square&theme=github_dark_dimmed" alt="Forks"/>
+  <img src="https://img.shields.io/github/followers/kemal-faza?style=flat-square&theme=github_dark_dimmed" alt="Followers"/>
+  <img src="https://img.shields.io/github/repos/kemal-faza?style=flat-square&theme=github_dark_dimmed" alt="Repos"/>
+</p>
+
 ![](https://streak-stats.demolab.com?user=kemal-faza&theme=github_dark_dimmed&hide_border=true)
 ![](https://github-readme-stats-api.vercel.app/api/top-langs/?username=kemal-faza&theme=github_dark_dimmed&hide_border=true&layout=compact)
 
   </td>
-    <td width="60%" valign="top">
+    <td width="70%" valign="top">
 
 ### Tech Stack
 
