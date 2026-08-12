@@ -24,9 +24,9 @@ const kemal = {
 
 ### GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=kemal-faza&theme=github_dark_dimmed&hide_border=true&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=kemal-faza&theme=github_dark_dimmed&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kemal-faza&theme=github_dark_dimmed&hide_border=true&layout=compact)
+![](https://github-readme-stats-theta.vercel.app/api?username=kemal-faza&theme=github_dark_dimmed&hide_border=true&include_all_commits=true)
+![](https://streak-stats.demolab.com?user=kemal-faza&theme=github_dark_dimmed&hide_border=true)
+![](https://github-readme-stats-api.vercel.app/api/top-langs/?username=kemal-faza&theme=github_dark_dimmed&hide_border=true&layout=compact)
 
   </td>
     <td width="50%" valign="top">
