@@ -5,37 +5,28 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="30%" valign="top">
-
 ### About Me
 
 ```javascript
 const kemal = {
-	name: 'Kemal',
-	role: 'Informatics Student',
-	university: 'Diponegoro University',
-	focus: 'Full-Stack Web & Mobile Dev',
-	interests: ['Web Dev', 'Mobile Apps', 'Backend APIs', 'Data Science', 'IoT'],
-	learning: ['TypeScript', 'Next.js', 'React Native', 'System Design'],
+  name: 'Kemal',
+  role: 'Informatics Student',
+  university: 'Diponegoro University',
+  focus: 'Full-Stack Web & Mobile Dev',
+  interests: ['Web Dev', 'Mobile Apps', 'Backend APIs', 'Data Science', 'IoT'],
+  learning: ['TypeScript', 'Next.js', 'React Native', 'System Design'],
 };
 ```
 
-### GitHub Stats
-
 <p align="center">
-  <img src="https://img.shields.io/github/stars/kemal-faza?style=flat-square&theme=github_dark_dimmed" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/kemal-faza?style=flat-square&theme=github_dark_dimmed" alt="Forks"/>
-  <img src="https://img.shields.io/github/followers/kemal-faza?style=flat-square&theme=github_dark_dimmed" alt="Followers"/>
-  <img src="https://img.shields.io/github/repos/kemal-faza?style=flat-square&theme=github_dark_dimmed" alt="Repos"/>
+  <img src="https://img.shields.io/github/followers/kemal-faza?style=flat-square&theme=github-dark&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/kemal-faza?style=flat-square&theme=github-dark&label=Stars&color=yellow" alt="Stars"/>
 </p>
 
 ![](https://streak-stats.demolab.com?user=kemal-faza&theme=github_dark_dimmed&hide_border=true)
 ![](https://github-readme-stats-api.vercel.app/api/top-langs/?username=kemal-faza&theme=github_dark_dimmed&hide_border=true&layout=compact)
 
-  </td>
-    <td width="70%" valign="top">
+---
 
 ### Tech Stack
 
@@ -76,10 +67,6 @@ const kemal = {
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
-
-  </td>
-  </tr>
-</table>
 
 ---
 
